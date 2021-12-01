@@ -10,7 +10,7 @@ body{
 }
 
 .navigation{
-    background-color: blueviolet;
+    background-color: rgb(37, 37, 35);
     color: aliceblue;
     padding: 1rem ;
     border-bottom-left-radius: 1rem;
@@ -43,8 +43,8 @@ a {
 }
 
 textarea{
-    background-color: palevioletred;
-    border-color: palevioletred;
+    background-color: rgb(33, 36, 35);
+    border-color: rgb(241, 14, 14);
     color:white;
 }
 
